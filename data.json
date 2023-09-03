@@ -1,0 +1,22 @@
+{
+    "companyName": "Train abi",
+    "clientID": "746a71fa-ed2a-4fe5-a6fb-0b5b51e1eb07",
+    "clientSecret": "jlukZATrEMNryGcb",
+    "ownerName": "Abisheg",
+    "ownerEmail": "124157065@sastra.ac.in",
+    "rollNo": "124157065"
+}
+
+{
+    "token_type": "Bearer",
+    "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2OTM3MTg4MTQsImNvbXBhbnlOYW1lIjoiVHJhaW4gYWJpIiwiY2xpZW50SUQiOiI3NDZhNzFmYS1lZDJhLTRmZTUtYTZmYi0wYjViNTFlMWViMDciLCJvd25lck5hbWUiOiIiLCJvd25lckVtYWlsIjoiIiwicm9sbE5vIjoiMTI0MTU3MDY1In0.tR-SDLI1PZ-8uRJ8to2VyEjdmfyWwU1jVZM05uV25Kk",
+    "expires_in": 1693718814
+}
+{
+    "companyName":"Train abi",
+    "clientID":"746a71fa-ed2a-4fe5-a6fb-0b5b51e1eb07",
+    "ownerName":"Abisheg",
+    "ownerEmail":"124157065@sastra.ac.in",
+    "rollNo":"124157065",
+    "clientSecret":"jlukZATrEMNryGcb"
+    }
